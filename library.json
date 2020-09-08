@@ -3,7 +3,7 @@
   "title": "KidPM25",
   "category" : "Sensors",
   "keywords": "",
-  "description": "วัดฝุ่นด้วยบอร์ด KidBright ผ่าน KidPM2.5 เขียนโปรแกรมแบบบล็อกด้วย KidBrightIDE",
+  "description": "วัดฝุ่นด้วยบอร์ด KidBright ผ่าน KidPM2.5 เขียนโปรแกรมแบบบล็อกด้วย KB-IDE",
   "homepage": "https://github.com/maxpromer/KidPM25_Arduino",
   "license": "MIT",
   "git": "https://github.com/maxpromer/KidPM25_Arduino",
