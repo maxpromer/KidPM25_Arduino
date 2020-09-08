@@ -1,0 +1,16 @@
+{
+  "name" : "KidPM25_Arduino",
+  "title": "KidPM25",
+  "category" : "Sensors",
+  "keywords": "",
+  "description": "วัดฝุ่นด้วยบอร์ด KidBright ผ่าน KidPM2.5 เขียนโปรแกรมแบบบล็อกด้วย KidBrightIDE",
+  "homepage": "https://github.com/maxpromer/KidPM25_Arduino",
+  "license": "MIT",
+  "git": "https://github.com/maxpromer/KidPM25_Arduino",
+  "author": "IOXhop",
+  "url": "https://www.ioxhop.com/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-avr", "arduino-esp32"],
+  "image" : "/static/display.png"
+}
